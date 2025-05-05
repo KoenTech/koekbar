@@ -1,0 +1,20 @@
+window {
+    background-color: #00000010;
+    border-radius: 0px;
+}
+
+.pill {
+    background-color: #ffffff25;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 1em;
+}
+
+.time {
+    font-weight: 600;
+    font-size: 1.05em;
+}
